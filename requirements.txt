@@ -10,7 +10,6 @@ Markdown
 pillow
 psycopg2-binary
 pytz
-pywin32
 sqlparse
 typing_extensions
 tzdata
